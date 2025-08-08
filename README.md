@@ -2,6 +2,12 @@
 
 my quickstarts.sh for debian/ubuntu, openSUSE, Arch linux
 
+$How to use:
+
+1.Download files from repo or release page
+
+2.Run with command:sh quickstart-*your dist*.sh
+
 all shell scripts have:
 
 #Development:
